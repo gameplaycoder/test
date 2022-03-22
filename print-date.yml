@@ -7,5 +7,5 @@ image_resource: # define a default image for the task to use
 
 run:
   path: date
-  args: ["+%Y-%m-%d"]
+  args: ["+%m-%d-%Y"]
   
